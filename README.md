@@ -6,4 +6,3 @@ Developer & Designer
 
 *   🚀  I'm currently working on [Vultr.com](http://vultr.com)
 *   🧠  I'm learning WebGL / ThreeJs
-*   🤝  I'm open to collaborating on Respawn.gg
