@@ -5,4 +5,4 @@ Developer & Designer
 --------------------
 
 *   🧠  I'm learning WebGL / ThreeJs
-*   Building a Design & Technology showcase at roast.gg
+*   Building something cool at roast.gg
