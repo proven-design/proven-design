@@ -1,8 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jonny Norquist
+Jonny Norquist
 ======================================================================================================================================
 
-Developer & Designer
+UX Engineer | UI Engineer | Design Engineer - Developer & Designer
 --------------------
-
-*   🧠  I'm learning WebGL / ThreeJs
-*   Building something cool at roast.gg
+* UI Design / Development.
+* Applies psychological principles and design principles to enhance user interaction and decision-making.
+* Understands user behaviors and needs.
+* Building something cool at roast.gg
