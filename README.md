@@ -3,12 +3,14 @@ Jonny Norquist
 
 UX Engineer | UI Engineer | Design Engineer
 --------------------
-* UI Design / Development.
-* Building something cool at roast.gg
+* UI Development & Design.
+* Building Morality.ai
+* Building Lossy.ai
 
-Multidisciplinary Designer
+Multidisciplinary Design
 --------------------
-* Marketing Design - Digital & Print.
+* Expert in Psychological and Design Principles
+* Marketing Design.
 * Interaction Design.
 * UI Design.
 * UX Design.
