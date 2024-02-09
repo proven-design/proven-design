@@ -5,7 +5,7 @@ UX Engineer | UI Engineer | Design Engineer
 --------------------
 * UI Development & Design.
 * Building Morality.ai
-* Building Lossy.ai
+* Building AI-Powered Privacy Tools Lossy.ai, Cloaks.ai and Daggers.ai
 
 Multidisciplinary Design
 --------------------
