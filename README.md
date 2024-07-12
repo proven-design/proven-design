@@ -11,10 +11,10 @@ UX Engineer | UI Engineer | Design Engineer
 Multidisciplinary Design
 --------------------
 * Specialist in Psychological and Design Principles
-* Marketing Design.
-* Interaction Design.
-* UI Design.
-* UX Design.
+* Marketing Design
+* Interaction Design
+* UI Design
+* UX Design
 
 
 
