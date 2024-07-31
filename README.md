@@ -1,7 +1,7 @@
 Jonny Norquist
 ======================================================================================================================================
 
-UX Engineer | UI Engineer | Design Engineer
+Front-End UX Engineer | UI Engineer | Design Engineer
 --------------------
 * Full stack developer
 * UI Development & Design
